@@ -34,3 +34,52 @@
 
 
 }
+/* section-cover */
+.section-cover-container{
+width: 1440px;
+height: 652px;
+border: 2px solid red;
+background-image: url(../assets/Hero-bg.png);
+margin: 0 auto;
+justify-content: center;
+
+
+}
+.section-cover-container-image{
+width: 240.28px;
+height: 240px;
+margin: 2px solid red;
+margin: 26px 599.86px 386px 599.86px;
+
+}
+.section-cover-content{
+width: 998px;
+border: 2px solid rgb(255, 60, 0);
+margin: 0 auto;
+text-align: center;
+justify-content: center;
+align-items: center;
+display: flex;
+flex-direction:column;
+align-items:center;
+margin-inline: -350px;
+height: 900px;
+
+
+}
+.contact-btn{
+     color: rgb(253, 253, 253);
+    border: 2px solid 
+    red;
+    margin-top:100px;
+    margin-bottom:600px;
+    background-color: rgb(14, 11, 11);
+    width: 200px;
+height: 66px;
+margin-left: -60px;
+margin-right: -10px;
+text-align:center;
+border-radius: 10px;
+padding-top: 14px;
+
+}
