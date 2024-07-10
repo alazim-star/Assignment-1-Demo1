@@ -382,7 +382,6 @@ align-items: center;
 text-align: center;
 margin-top: 111px;
 }
-
 /* React JS */
 
 .React-JS{
@@ -511,10 +510,8 @@ display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: row;
-border: 2 px solid red;
 padding:17px 20px;
-font-size:px;
-margin-left: 10px;
+
 
    }
    .search{
@@ -522,32 +519,45 @@ margin-left: 10px;
     justify-content: center;
    margin-bottom: 1010px;
    margin-top: 150px;
-   width: 560px;
-   height: 30px;
-   }
-   .tbox{
-    width: 548px;
+   width:100px;
 height: 57px;
-
    }
-   .btn{
-       border: 1px solid red;
-    width: 20px;
+.btn{
+width: 20px;
 height: 24px;
-
-
    }
    Section-footer-icon 
     .section-icon{
     width: 1440px;
 height: 100px;
 padding: 32px 150px 32px 150px;
-border: 2px solid red;
-
-
    }
+   /* icon */
 .section-icon-cotant{
     width: 1140px;
     height: 36px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
    }
+.fa-brands fa-facebook{
+    /* font-size: 70px; */
+    width: 13.25px;
+height: 28.25px;
+left: 11.53px;
+top: 7.75px;
+color: #008eff;
+}
+.fa-brands fa-github{
+    font-size: 70px;
+}
+.fa-brands fa-instagram{
+    font-size: 70px;
+}
+ 
+.i-c-o-n{
+    font-size: 70px;
+    width: 1440px;
+height: 100px;
+font-size: larger;
+
+
+}
