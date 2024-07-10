@@ -208,3 +208,24 @@ text-align: center;
 padding: 10px 10px 10px 10px;
 margin bottom: 100px;
 margin-top:40px;}
+/* section-inspire */
+.section-inspire{
+    width: 1140px;
+height: 777px;
+border: 2px solid red;
+margin-top: 330px;
+
+
+}
+.section-inspire-content{
+    width: 852px;
+height: 115px;
+display: flex;
+flex-direction: column;
+}
+.inspiration{
+padding: 32px;
+border: 1px solid rgb(94, 92, 92);
+border-radius: 15px;
+}
+/* My-current-target */
