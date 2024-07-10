@@ -6,6 +6,7 @@
     font-family:"Open Sans", sans-serif ;
     box-sizing: border-box;
     margin: 0 auto;
+   
 }
 /* Style nav */
 .section-nav{
@@ -398,5 +399,154 @@ margin-top:-180px;
     padding: 0px;
     text-decoration: underline;
 }
+/* My next Target */
+.my-next-target-content{
+width: 852px;
+height: 115px;
+border: 2px solid red;
+align-items: center;
+text-align: center;
+margin-top: 111px;
+}
 
-   
+/* React JS */
+
+.React-JS{
+    border-radius: 16px;
+    border: 2px solid rgb(48, 47, 47);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    min-height: 100px;
+    width: 1140px;
+height: 220px;
+padding: 40px;
+margin-top:24px ;
+}
+img{
+    border-radius: 10px;
+    max-width: 350px;
+    float: left;
+    margin-right: 2px;
+
+}
+.react-js-contener{
+    margin:100px;
+    width: 75%;
+
+}
+text h3{font-size: 50px ;
+    padding: 5px;
+
+
+}
+text {
+    font-size: 22px;
+}
+/* Node JS  */
+.Node-JS{
+    border-radius: 16px;
+margin-top: 24px;
+    width: 1140px;
+height: 220px;
+    border: 2px solid rgb(48, 47, 47);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    min-height: 100px;
+}
+img{
+    border-radius: 10px;
+    max-width: 350px;
+    float: left;
+    margin-right: 2px;
+
+}
+.node-js-contener{
+    margin:100px;
+    width: 75%;
+
+}
+text h3{font-size: 50px ;
+    padding: 5px;
+
+
+}
+text {
+    font-size: 22px;
+}
+/* Mongo-BD */
+
+.Mongo-BD{
+    border-radius: 16px;
+    margin-top: 24px;
+    width: 1140px;
+height: 220px;
+    border: 2px solid rgb(48, 47, 47);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    min-height: 100px;
+ }
+img{
+    border-radius: 10px;
+    max-width: 350px;
+    float: left;
+    margin-right: 2px;
+
+}
+.Mongo-BD-container {
+    margin:100px;
+    width: 75%;
+
+}
+text h3{font-size: 50px ;
+    padding: 5px;
+
+
+}
+text {
+    font-size: 22px;
+    text-decoration: underline;
+}
+text p{
+    text-decoration: underline;
+}
+/* section-support */
+   .section-support-container{
+    border: 2px solid red;
+    width: 1140px;
+height: 314px;
+
+   }
+   .section-support-content{
+
+    display: flex;
+flex-direction: column;
+width: 1140px;
+height: 314px;
+padding: 48px;
+background-image: url(/assets/handshake.jpg);
+background-position: center;
+
+
+
+   }
+   .btn-section-support{
+
+   }
+   .search{
+    display: flex;
+    justify-content: center;
+   margin-bottom: 1010px;
+   margin-top: 100px;
+   }
+   .tbox{
+    width: 548px;
+height: 57px;
+
+   }
+   .btn{
+    width: 50px;
+    border: 1px solid red;
+   }
