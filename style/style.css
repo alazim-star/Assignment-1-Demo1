@@ -212,20 +212,191 @@ margin-top:40px;}
 .section-inspire{
     width: 1140px;
 height: 777px;
-border: 2px solid red;
+margin: 2px solid red;
 margin-top: 330px;
-
-
+bottom: 181px;
 }
 .section-inspire-content{
     width: 852px;
 height: 115px;
 display: flex;
 flex-direction: column;
+margin: 2px solid red;
 }
 .inspiration{
 padding: 32px;
 border: 1px solid rgb(94, 92, 92);
 border-radius: 15px;
 }
-/* My-current-target */
+/* My current target */
+/* Section Frame-2 */
+.section-frame-2{
+    border: 2px solid red;
+    position: absolute;
+    width: 1140px;
+    height: 1444px;
+    left: 150px;
+    right: 150px;
+    top: 2800px;
+    bottom: 2000px;
+}
+/* My current target */
+.My-current-target{
+    width: 1140px;
+    height: 463px;
+border: 2px solid red;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin: 111px 0px;
+margin-top:0px;
+
+} 
+.My-current-target-header{
+ border: 2px solid red ;
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+margin: 0 auto;
+width: 946px;
+height: 115px;
+text-align: center;
+}
+/* <!-- My-current-target-content-Box --> */
+.My-current-target-content-Box-ALL{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+
+}
+.My-current-target-content-Box-1{
+display: flex;
+background-color:#fff6f4 ;
+ border: 2px solid red;
+ width: 364px;
+height: 300px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 40px,
+
+}
+.My-current-target-content-Box-1 img{
+margin-left: 100px;
+flex-direction: row;
+width: 56px;
+height: 56px;
+margin: 24px 0px;
+border:5px solid red;
+margin-top:-170px;
+}
+.My-current-target-content-Box-1 h3{
+    border: 2px solid red;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    margin-right: 300px;
+    font align-items: left; 
+}
+.My-current-target-content-Box-1 h5{
+    margin-left: 5px;
+     width: 284px;
+    height: 20px;
+    text-decoration: underline;
+}
+.My-current-target-content-Box-2{
+    border: 2px solid red;
+    width: 364px;
+   height: 300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   padding: 40px;
+   background-color: #f2f6fe;
+
+}
+.My-current-target-content-Box-2 img{
+    display: flex;
+       justify-content: flex-start;
+    display: flex;
+    flex-direction: row;
+    position: static;
+width: 56px;
+height: 56px;
+margin: 24px 0px;
+border:5px solid red;
+margin-top:-180px;
+padding: 2px;
+
+}
+.My-current-target-content-Box-2 h3{
+    border: 2px solid red;
+    margin-top: 60px;
+    margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font align-items: left;
+}
+.My-current-target-content-Box-2 h5{
+    position: static;
+    width: 284px;
+    height: 20px;
+      display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    text-decoration: underline;
+}
+.My-current-target-content-Box-3{
+    background-color: #fff6f4;
+    border: 2px solid red;
+    width: 364px;
+   height: 300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   padding: 40px;
+   display: flex;
+}
+.My-current-target-content-Box-3 img{
+    display: flex;
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: row;
+    position: static;
+width: 56px;
+height: 56px;
+margin: 24px 0px;
+border:5px solid red;
+margin-top:-180px;
+}
+.My-current-target-content-Box-3 h3{
+    border: 2px solid red;
+    margin-top: 60px;
+    margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font align-items: left;
+}
+.My-current-target-content-Box-3 h5{
+    position: static;
+    width: 284px;
+    height: 20px;
+      display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    text-decoration: underline;
+}
+
+   
